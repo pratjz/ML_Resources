@@ -20,11 +20,6 @@
   * [Extractive summarization of medical transcription](https://github.com/jalajthanaki/medical_notes_extractive_summarization)
   * [summarization of Amazon's product reviews](https://github.com/jalajthanaki/Amazon_review_summarization)
 
-* **Chatbots**
-  * [Rule-based chatbots](https://github.com/jalajthanaki/Chatbot_Rule_Based)
-  * [Build a chatbot using TensorFlow](https://github.com/jalajthanaki/Chatbot_tensorflow)
-  * [Build a chatbot using Keras, This bot is having reasoning ability...!](https://github.com/jalajthanaki/Chatbot_based_on_bAbI_dataset_using_Keras)
-
 * **Object Detection**
   * [Real time object detection using OpenCV](https://github.com/jalajthanaki/Real_time_object_detection)
   * [Real time object detection using YOLO](https://github.com/jalajthanaki/Real_time_object_detection_with_YOLO)
@@ -34,6 +29,11 @@
   * [Facial emotion recognition using TensorFlow](https://github.com/jalajthanaki/Facial_emotion_recognition_using_TensorFlow)
   * [Facial emotion recognition using Keras](https://github.com/jalajthanaki/Facial_emotion_recognition_using_Keras)
 
+* **Chatbots**
+  * [Rule-based chatbots](https://github.com/jalajthanaki/Chatbot_Rule_Based)
+  * [Build a chatbot using TensorFlow](https://github.com/jalajthanaki/Chatbot_tensorflow)
+  * [Build a chatbot using Keras, This bot is having reasoning ability...!](https://github.com/jalajthanaki/Chatbot_based_on_bAbI_dataset_using_Keras)
+  
 * **Gaming bot**
   * [Q-Learning for simple Atari games](https://github.com/jalajthanaki/Q_learning_for_simple_atari_game)
   * [Space Invaders gaming bot](https://github.com/jalajthanaki/SpaceInvaders_gamingbot)
