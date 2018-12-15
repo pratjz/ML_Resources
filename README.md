@@ -1,9 +1,7 @@
 # Machine_Learning
 
 
-* **Credit risk modeling,** We will build a predictive analytics model which will predict whether the customer will default the loan or not. We will use outlier detection, features transformation, ensemble algorithms.
-    
-    * [Credit risk modeling](https://github.com/jalajthanaki/credit-risk-modelling)
+* [Credit risk modeling](https://github.com/jalajthanaki/credit-risk-modelling): Build a predictive analytics model which will predict whether the customer will default the loan or not. We will use outlier detection, features transformation, ensemble algorithms.
 
 * **Stock market price prediction,** in this chapter we will build predictive model which can predict the stock index price based on historical dataset. We will use neural networks to get the best possible solution.
 
