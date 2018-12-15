@@ -1,7 +1,7 @@
 # Machine_Learning
 
-**Financial Analytics**
-* [Credit risk modeling](https://github.com/jalajthanaki/credit-risk-modelling): Predictive model which will predict whether the customer will default the loan or not.
+* **Financial Analytics**
+  * [Credit risk modeling](https://github.com/jalajthanaki/credit-risk-modelling): Predictive model which will predict whether the customer will default the loan or not.
 * [Stock index prediction](https://github.com/jalajthanaki/stock_price_prediction) Predictive model which can predict the stock index price based on historical dataset.
 
 **Customer Analytics**
@@ -43,6 +43,3 @@
 **Cheat sheets**
 * [Cheat sheets for python libraries](https://github.com/jalajthanaki/cheat_sheets_of_python_libraries)
 * [List of awesome Python frameworks, libraries, software and resources](https://github.com/jalajthanaki/awesome-python)
-
-
-* **Strategy for wining hackathons,**
