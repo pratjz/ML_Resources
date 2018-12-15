@@ -1,7 +1,7 @@
 # Machine_Learning
 
 
-* [Credit risk modeling](https://github.com/jalajthanaki/credit-risk-modelling): Predictive model which will predict whether the customer will default the loan or not.
+  * [Credit risk modeling](https://github.com/jalajthanaki/credit-risk-modelling): Predictive model which will predict whether the customer will default the loan or not.
 * [Stock index prediction](https://github.com/jalajthanaki/stock_price_prediction) Predictive model which can predict the stock index price based on historical dataset.
 
 * [Customer segmentation](https://github.com/jalajthanaki/Customer_segmentation) Build the customer segmentation so that marketing campaigns can be done optimally
