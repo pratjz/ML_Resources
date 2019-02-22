@@ -10,6 +10,7 @@
 1. [Logistic Regression](https://www.kaggle.com/pratjain/logistic-regression)
 2. [K-Nearest Neighbors (K-NN)](https://www.kaggle.com/pratjain/k-nearest-neighbors-k-nn)
 3. [Support Vector Machine (SVM)](https://www.kaggle.com/pratjain/support-vector-machine-svm)
+4. [Kernel SVM](https://www.kaggle.com/pratjain/kernel-svm)
 
 ### Clustering
 
