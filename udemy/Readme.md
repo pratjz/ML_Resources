@@ -3,7 +3,7 @@
 2. [Multiple Linear Regression](https://www.kaggle.com/pratjain/2-multiple-linear-regression)
 3. [Polynomial Regression](https://www.kaggle.com/pratjain/3-polynomial-regression)
 4. [Support Vector Regression](https://www.kaggle.com/pratjain/4-support-vector-regression)
-5. [Decision Tree Regression]()
+5. [Decision Tree Regression](https://www.kaggle.com/pratjain/5-decision-tree-regression)
 6. [Random Forest Regression]()
 
 ### Classification
