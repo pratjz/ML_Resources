@@ -8,6 +8,7 @@
 
 ### Classification
 1. [Logistic Regression](https://www.kaggle.com/pratjain/logistic-regression)
+2. [K-Nearest Neighbors (K-NN)](https://www.kaggle.com/pratjain/k-nearest-neighbors-k-nn)
 
 ### Clustering
 
