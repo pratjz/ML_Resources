@@ -12,7 +12,7 @@
 3. [Support Vector Machine (SVM)](https://www.kaggle.com/pratjain/support-vector-machine-svm)
 4. [Kernel SVM](https://www.kaggle.com/pratjain/kernel-svm)
 5. [Naive Bayes](https://www.kaggle.com/pratjain/naive-bayes-classification)
-6. []()
+6. [Decision Tree Classification](https://www.kaggle.com/pratjain/decision-tree-classification)
 
 ### Clustering
 
