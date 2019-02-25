@@ -13,6 +13,7 @@
 4. [Kernel SVM](https://www.kaggle.com/pratjain/kernel-svm)
 5. [Naive Bayes](https://www.kaggle.com/pratjain/naive-bayes-classification)
 6. [Decision Tree Classification](https://www.kaggle.com/pratjain/decision-tree-classification)
+7. [Random Forest Classification](https://www.kaggle.com/pratjain/random-forest-classification)
 
 ### Clustering
 
