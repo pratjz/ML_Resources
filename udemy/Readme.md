@@ -11,6 +11,8 @@
 2. [K-Nearest Neighbors (K-NN)](https://www.kaggle.com/pratjain/k-nearest-neighbors-k-nn)
 3. [Support Vector Machine (SVM)](https://www.kaggle.com/pratjain/support-vector-machine-svm)
 4. [Kernel SVM](https://www.kaggle.com/pratjain/kernel-svm)
+5. [Naive Bayes](https://www.kaggle.com/pratjain/naive-bayes-classification)
+6. []()
 
 ### Clustering
 
