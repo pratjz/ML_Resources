@@ -16,8 +16,8 @@
 7. [Random Forest Classification](https://www.kaggle.com/pratjain/random-forest-classification)
 
 ### Clustering
-1. [K-Means Clustering]()
-2. [Hierarchical Clustering]()
+1. [K-Means Clustering](https://www.kaggle.com/pratjain/k-means-clustering)
+2. [Hierarchical Clustering](https://www.kaggle.com/pratjain/hierarchical-clustering)
 
 ### Association Rule Learning
 
